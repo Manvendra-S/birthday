@@ -16,6 +16,14 @@ body {
   text-align: center;
   max-width: 650px;
 }
+.local-image {
+  width: 80%;
+  max-width: 350px;
+  border-radius: 15px;
+  margin: 18px auto;
+  display: block;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.13);
+}
 
 h1 {
   font-size: 2.8em;
